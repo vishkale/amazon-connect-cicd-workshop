@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceAlias": "vishkale-devops",
+  "instanceStorageBucketName": "vishkale-connect-dev-ops",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
