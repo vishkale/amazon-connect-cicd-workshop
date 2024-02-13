@@ -6,7 +6,7 @@ This workshop will teach you how to implement a [Continuous Integration and Cont
 
 ### CI/CD Pipeline Architecture
 **TODO**
-* Tooling account is in 1 region
+* Tooling account is in 1 region - US East region for now.
 * Child accounts can be in another region
 * Update diagrams to show this
 
